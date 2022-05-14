@@ -18,10 +18,10 @@ Step 3: Run "npm start" to run it locally in port 3000
 
 Full Loading Time- 0.7seconds
 
-
+![SCREENSHOT1](screenshots/Capture1.JPG)
 
 <h3>According to web.dev</h3>
 
 Speed Index - 3.4seconds
 
-
+![SCREENSHOT1](screenshots/Capture.JPG)
